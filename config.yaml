@@ -4,7 +4,7 @@ title: Ryan Grossman
 theme: hyde-hyde
 params:
   author: Author
-  authorimage: /img/ryan.png
+  authorimage: img/ryan.png
   copyright: htr3n
   dateformat: Jan 2, 2006
   highlightjs: yes
