@@ -19,7 +19,7 @@ theme = "hyde-hyde"
     author = "RyRy"
     title = "Ryan Grossman"
     # description = "..."
-    authorimage = "ryan.png"
+    authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
