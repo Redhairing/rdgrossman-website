@@ -1,8 +1,8 @@
 ## Basic Configuration
-baseurl = "https://example.com/"
+baseurl = "https://rdgrossman.netlify.app/"
 languageCode = "en"
 
-title = "Title"
+title = "Ryan Grossman"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -17,13 +17,13 @@ theme = "hyde-hyde"
 ## Site Settings
 [params]
     author = "RyRy"
-    title = "Title"
+    title = "Ryan Grossman"
     # description = "..."
     authorimage = "ryan.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    #logoimage = "/img/hugo.png"
+    logoimage = "/img/hugo.png"
     copyright = "htr3n"
     since = 2019
     license = "CC BY-SA 4.0"
