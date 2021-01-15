@@ -1,10 +1,10 @@
-baseurl: https://example.com/
+baseurl: https://rdgrossman.netlify.app
 languageCode: en
-title: Title
+title: Ryan Grossman
 theme: hyde-hyde
 params:
   author: Author
-  authorimage: /img/ryan.jpg
+  authorimage: /img/ryan.png
   copyright: htr3n
   dateformat: Jan 2, 2006
   highlightjs: yes
