@@ -3,8 +3,8 @@ languageCode: en
 title: Ryan Grossman
 theme: hyde-hyde
 params:
-  author: Author
-  authorimage: static/img/ryan.png
+  author: Ryan Grossman
+  authorimage: ryan.png
   copyright: htr3n
   dateformat: Jan 2, 2006
   highlightjs: yes
@@ -12,16 +12,13 @@ params:
   license: CC BY-SA 4.0
   licenseURL: https://creativecommons.org/licenses/by-sa/4.0
   showBuiltWith: yes
-  since: 2019
+  since: 2021
   social:
     email: your-email@example.com
-    facebook: <username>
     github: <username>
     instagram: <username>
     linkedin: <username>
-    microblog: <username>
     stackoverflow: <username>
-    telegram: <username>
     twitter: <username>
     xing: <username>
   title: Title
