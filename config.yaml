@@ -4,7 +4,7 @@ title: Title
 theme: hyde-hyde
 params:
   author: Author
-  authorimage: /img/hugo.png
+  authorimage: /img/ryan.jpg
   copyright: htr3n
   dateformat: Jan 2, 2006
   highlightjs: yes
