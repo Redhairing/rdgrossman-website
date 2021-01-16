@@ -25,7 +25,7 @@ theme = "hyde-hyde"
     # sidebar, copyright & license
     #logoimage = "/img/hugo.png"
     copyright = "htr3n"
-    since = 2019
+    since = 2021
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     showBuiltWith = true

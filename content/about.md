@@ -1,17 +1,12 @@
 ---
-date: "2014-04-09"
-title: About Hugo
+date: "2020-01-15"
+title: About Me
 ---
 
-Hugo is a static site engine written in Go.
+Hi! I'm Ryan! 
 
+I am a data scientist based in Los Angeles. I live here with my wife (Ceili) and my two cats (Cocoa and Cinnamon). My wife and I are both originally from the Southern New Jersey area, about an hour outside of Philadelphia. 
 
-It makes use of a variety of open source projects including:
+Professionally, I am passionate about Bayesian Statistics, Machine Learning, and all ways of using data to make better decisions. I've worked to apply data science in a wide variety of contexts. 
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+Personally, I love to read. my favorite thing to read are biographies and memoirs, but I am happy reading anything. 
