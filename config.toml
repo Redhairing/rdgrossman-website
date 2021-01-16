@@ -45,10 +45,10 @@ theme = "hyde-hyde"
 
 ## Social Accounts
 [params.social]
-    github = "https://github.com/Redhairing"
-    linkedin = "https://www.linkedin.com/in/ryan-grossman-a391a9a3/"
-    twitter = "https://twitter.com/red_hairing"
-    stackoverflow = "https://stackoverflow.com/users/15016621/redhairing"
+    github = "Redhairing"
+    linkedin = "ryan-grossman-a391a9a3/"
+    twitter = "hred_hairing"
+    stackoverflow = "users/15016621/redhairing"
     # orcid = "<xxxx-xxxx-xxxx-xxxx>"
     email = "rgrossman27@gmail.com"
     # gravatar = "your-email@example.com"
