@@ -16,8 +16,9 @@ params:
   social:
     email: rgrossman27@gmail.com
     github: <username>
+    instagram: <username>
     linkedin: https://www.linkedin.com/in/ryan-grossman-a391a9a3/
-    stackoverflow: https://stackoverflow.com/users/15016621/redhairing
+    stackoverflow: <username>
     twitter: https://twitter.com/red_hairing
   title: Title
 menu:
