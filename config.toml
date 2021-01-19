@@ -16,7 +16,7 @@ theme = "hyde-hyde"
 
 ## Site Settings
 [params]
-    author = "RyRy"
+    author = "Ryan Grossman"
     title = "Ryan Grossman"
     # description = "..."
     authorimage = "/img/ryan.png"
